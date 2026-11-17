@@ -1,0 +1,10 @@
+[
+  {
+    "id": "basic",
+    "cents_per_hour": 3000
+  },
+  {
+    "id": "senior",
+    "cents_per_hour": 4000
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "p1",
+    "person": "p1",
+    "site": "east",
+    "earning_month": "2026-09",
+    "cash_month": "2026-10",
+    "cents": 80000
+  },
+  {
+    "id": "p2",
+    "person": "p1",
+    "site": "west",
+    "earning_month": "2026-10",
+    "cash_month": "2026-11",
+    "cents": 56000
+  }
+]

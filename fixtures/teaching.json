@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t1",
+    "mentor": "p1",
+    "learners": [
+      "p2"
+    ],
+    "month": "2026-10",
+    "confirmed": true,
+    "approved_cents": 3000
+  }
+]

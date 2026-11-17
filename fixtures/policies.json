@@ -1,0 +1,9 @@
+[
+  {
+    "id": "annual2026",
+    "year": 2026,
+    "annual_bonus_cap_cents": 120000,
+    "hourly_floor_cents": 3000,
+    "disclosure_min_people": 5
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "s1",
+    "person": "p1",
+    "site": "east",
+    "date": "2026-10-14",
+    "minutes": 480,
+    "confirmed": true
+  },
+  {
+    "id": "s2",
+    "person": "p1",
+    "site": "west",
+    "date": "2026-10-16",
+    "minutes": 480,
+    "confirmed": true
+  },
+  {
+    "id": "s3",
+    "person": "p2",
+    "site": "east",
+    "date": "2026-10-16",
+    "minutes": 120,
+    "confirmed": true
+  },
+  {
+    "id": "s4",
+    "person": "p3",
+    "site": "west",
+    "date": "2026-10-17",
+    "minutes": 480,
+    "confirmed": false
+  }
+]

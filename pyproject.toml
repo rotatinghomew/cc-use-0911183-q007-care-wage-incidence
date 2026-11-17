@@ -1,0 +1,6 @@
+[project]
+name = "care-wage-incidence"
+version = "0.1.0"
+description = "技能薪酬方案的分布影响与年度预算衔接的业务数据服务"
+requires-python = ">=3.11"
+dependencies = ["numpy==2.2.6", "scipy==1.15.3"]
