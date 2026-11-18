@@ -1,0 +1,16 @@
+[
+  {
+    "id": "skill2026",
+    "name": "技能津贴与带教上浮示例方案",
+    "effective": "2026-07-01",
+    "status": "draft",
+    "budget_cap_cents": 2000000,
+    "rules": {
+      "skill_allowance_cents_per_hour": {
+        "senior": 500
+      },
+      "teaching_uplift_percent": 10,
+      "pay_lag_months": 1
+    }
+  }
+]
