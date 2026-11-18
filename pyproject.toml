@@ -4,3 +4,13 @@ version = "0.1.0"
 description = "技能薪酬方案的分布影响与年度预算衔接的业务数据服务"
 requires-python = ">=3.11"
 dependencies = ["numpy==2.2.6", "scipy==1.15.3"]
+
+[build-system]
+requires = ["setuptools==75.8.0", "wheel==0.45.1"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["paypolicy"]
+
+[tool.unittest]
+start-directory = "tests"
